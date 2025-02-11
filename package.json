@@ -3,6 +3,10 @@
   "displayName": "repocat",
   "description": "A simple CLI tool that accepts either:",
   "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SamKG/vscode-repocat"
+  },
   "engines": {
     "vscode": "^1.97.0"
   },
