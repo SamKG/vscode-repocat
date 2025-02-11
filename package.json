@@ -1,5 +1,6 @@
 {
   "name": "repocat",
+  "publisher": "SamKG",
   "displayName": "repocat",
   "description": "A simple CLI tool that accepts either:",
   "version": "0.0.1",
